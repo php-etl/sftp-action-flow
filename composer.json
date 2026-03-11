@@ -30,6 +30,6 @@
         "bin-dir": "bin"
     },
     "require-dev": {
-        "rector/rector": "^2.0"
+        "rector/rector": "^2.3"
     }
 }
